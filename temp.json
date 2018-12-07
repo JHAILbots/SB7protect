@@ -1,0 +1,258 @@
+{
+    "access_key": "0066725464abd96d2cee00863ad9067f",
+    "access_token": "ec6a73ed66f5704bf4d071a2174fb736238aaeb6",
+    "addPesan": "Halo @!",
+    "admin": [
+        "u3986caa1a897a19a2096d84d2915b82f"
+    ],
+    "ani_guess": [
+        "c9a9f741633543d70449a7d9801cbbd28"
+    ],
+    "apiKey": "8e3cf182-807a-4186-9261-a6c8741a9237",
+    "autoAdd": false,
+    "autoJoin": false,
+    "autoJoinTicket": false,
+    "autoLeave": false,
+    "autoRead": false,
+    "autoReply": false,
+    "autoRestart": false,
+    "botMute": [],
+    "botOff": [],
+    "changeCover": false,
+    "changeGroupPicture": [],
+    "changePicture": false,
+    "changeProfileCover": "",
+    "chatbot": {
+        "": false
+    },
+    "checkContact": false,
+    "checkPost": false,
+    "checkSticker": false,
+    "detectMention": false,
+    "getReader": {},
+    "keyCommand": ".",
+    "leaveMessage": false,
+    "leavePesan": "Bye @! Jangan Join Lagi Yak",
+    "mentionPesan": "@! Dont Tag Me!! 􀜅􀄃hmm􏿿",
+    "mimic": {
+        "copy": false,
+        "status": false,
+        "target": {}
+    },
+    "myProfile": {
+        "coverId": "2dc46852c38732cd1ba6df8e66c7c5d7",
+        "coverStatus": "",
+        "displayName": "CrazyName",
+        "pictureStatus": "0hO762-RryEBgLSzyV-8tvTzcOHnV8ZRZQc34MfihJSXggeVBJMnhcLC4eSyFyf1RINX9bfC8fTnhx",
+        "statusMessage": "Just Newbie :v  \n\n􀔃􀄅=> No Kids\n􀜅􀄰no􏿿 Spam\n􀜅􀄤=>􏿿 Slow Resp \n􀔃􀅼Fuck you stalker\n\n\n\n                                                                                        Cici􀄃􀉏love􏿿",
+        "videoProfile": "{\"category\":\"vp.mp4\",\"extension\":\"JPEG\",\"animated\":false,\"width\":699,\"height\":700,\"fileSize\":51521,\"tids\":{\"mp4\":\"vp.small\",\"sjpg\":\"vp.sjpg\"}}"
+    },
+    "publicMode": false,
+    "replyPesan": "Maaf @!, saya lagi gak on tinggalkan pesan aja",
+    "resendChat": false,
+    "restartBot": null,
+    "restartPoint": null,
+    "server": "VPS",
+    "setKey": false,
+    "timeRestart": 43200,
+    "userAgent": [
+        "Mozilla/5.0 (X11; U; Linux i586; de; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (X11; U; Linux amd64; rv:5.0) Gecko/20100101 Firefox/5.0 (Debian)",
+        "Mozilla/5.0 (X11; U; Linux amd64; en-US; rv:5.0) Gecko/20110619 Firefox/5.0",
+        "Mozilla/5.0 (X11; Linux) Gecko Firefox/5.0",
+        "Mozilla/5.0 (X11; Linux x86_64; rv:5.0) Gecko/20100101 Firefox/5.0 FirePHP/0.5",
+        "Mozilla/5.0 (X11; Linux x86_64; rv:5.0) Gecko/20100101 Firefox/5.0 Firefox/5.0",
+        "Mozilla/5.0 (X11; Linux x86_64) Gecko Firefox/5.0",
+        "Mozilla/5.0 (X11; Linux ppc; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (X11; Linux AMD64) Gecko Firefox/5.0",
+        "Mozilla/5.0 (X11; FreeBSD amd64; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 6.2; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:5.0) Gecko/20110619 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 6.1; rv:6.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 6.1.1; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 5.2; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 5.1; U; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 5.1; rv:2.0.1) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 5.0; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 5.0; rv:5.0) Gecko/20100101 Firefox/5.0"
+    ],
+    "userMentioned": {
+        "c070dfb59fa6f3b0210ef3f8b79e93705": {
+            "u2469958d85f9d006e6ac3c724985c783": 4,
+            "u2aceecac5a6bdab25af4329e7291e7bb": 1,
+            "u4f0d4f53e008c4b7a62924b93d70ef1a": 6,
+            "u5b67c6e4067d095e62c231ee114d8f29": 2,
+            "u6915988d5d25fbd3fc96d080b0e05c66": 2,
+            "u9bb81ca662d81683c7369d67e21fe8f4": 2,
+            "ub37bfd38a22f5f7612166ade5d7a986f": 2,
+            "ub621484bd88d2486744123db00551d5e": 7,
+            "udd76b08e9178df926daf94371e9015f1": 7,
+            "udf060a89ebb2af83af77edddb767c329": 11,
+            "uedcb4744c255b5cf5eb4a43f700a6c32": 4,
+            "uf1ecec4f991efbe0a91fc853e783c58f": 9
+        },
+        "c0d5bf677b8b8a4de39d85ab7262f30b2": {
+            "u2668b45cef901ec38db1fd5159f5f6ac": 1
+        },
+        "c0efebed9945f6ce576c3dd13164c048a": {
+            "u2469958d85f9d006e6ac3c724985c783": 1
+        },
+        "c2103760d828244e966af32cea86febe1": {
+            "u2469958d85f9d006e6ac3c724985c783": 2
+        },
+        "c298fd9fc2568d79be1a6a44949e6af4b": {
+            "u94d762cc91e4ffd0d613fe65e5855c1b": 5,
+            "uba6bc62a856375474b590a35f10527f9": 1
+        },
+        "c2e59b43c8cdb58736527fe542023a95d": {
+            "uef212f7b61274c22e4342c351cfd37e9": 3
+        },
+        "c2e7f5a23018e17e248e481cd57a1c3b1": {
+            "u291f78aebb471286717574fc20fba57f": 1,
+            "u7f1e605ce738e11eb85739c451709427": 2
+        },
+        "c4ddc3e253efc97c91ffa36b53ef38a74": {
+            "u88c00950d92a94ca7f68f658cb29924c": 1,
+            "u9e2c0d6c5c20d4733d4cada6c30bad81": 1,
+            "ubf0ed5e9b67638c59c78a1397d753aeb": 1,
+            "uc9536b7713cdc44580caee3a54bc90b6": 2,
+            "ufe2fa9e96b05faf23afbae21cb7db823": 1
+        },
+        "c5991eccc4d4b1fba438ed233d2f84060": {
+            "ua6233a64df2d2f302532a39a2fcfd3ba": 4,
+            "ua86fd1b861c39013293f8f76b1514e26": 1
+        },
+        "c60bcdff260b8502f8d00733085eff399": {
+            "ub19b4b9f8091b5d622a34ace6fc1c5a5": 1,
+            "udf1cc52d2369364e4a32086c0976c9b4": 1
+        },
+        "c63076d60818adaace78e399d8b2bcfdc": {
+            "u398467d76fc43af18c949696aef5e9ac": 1
+        },
+        "c69293661097e21e4659167f1ffe0fbf4": {},
+        "c705fd4923b8624c065455f91ae9a0868": {
+            "u07cbb0aa183feaef5c54059a0cefb320": 2
+        },
+        "c720f196e0bf1c255580292c4aca28f69": {
+            "u07cbb0aa183feaef5c54059a0cefb320": 14,
+            "u27e2a593744436efcf486ac5d12c5eba": 1,
+            "u3d9cde39d340c25e8f8d7a0d6961c5f4": 1,
+            "u8a1181e344c21d89ebec19769e77eb03": 3,
+            "ub19b4b9f8091b5d622a34ace6fc1c5a5": 5,
+            "udf1cc52d2369364e4a32086c0976c9b4": 14
+        },
+        "c7252110811cc54a6b5c0009d1aa1710a": {
+            "u6b3f86cfc7f49fd31a301418f077ccff": 2
+        },
+        "c7ccddb3a2697e1ae5b7c95a0427ac283": {
+            "u1f117aa506051fcd3de3217eac5bd860": 1
+        },
+        "c899b0b6a4517b87c41ef3868924694d8": {
+            "u9ae7ed079c6b5d1bf25bc4ea1d3bb6cf": 6
+        },
+        "c8d0f4ab038f565e21b6b71732fbe76cc": {
+            "u154a898f1dc67c5a22189d52831bca6b": 10,
+            "u1f117aa506051fcd3de3217eac5bd860": 3,
+            "u4f0d4f53e008c4b7a62924b93d70ef1a": 1,
+            "u62d9a87896331657e39255d81256314e": 7,
+            "u94d762cc91e4ffd0d613fe65e5855c1b": 1,
+            "udf1cc52d2369364e4a32086c0976c9b4": 8,
+            "uee21bd89613a8cab22690cdd5654f6c2": 2
+        },
+        "c906421a34bd8c8c8be9b33f01b79403b": {
+            "u18e0ff25ea1dfeabcdb9c54c9eb7d399": 4,
+            "u94d762cc91e4ffd0d613fe65e5855c1b": 1,
+            "ueeb6a331fe037f77bf065f42f346b236": 1
+        },
+        "c911bd7ff815b5ec8073c90ed95f73bd4": {
+            "u38dfee36e23c93a2018e1693635ba63a": 2,
+            "u62d9a87896331657e39255d81256314e": 3,
+            "u76bb9e69346d002c0a9793ba52d1c23e": 1,
+            "u94d762cc91e4ffd0d613fe65e5855c1b": 1
+        },
+        "c9e254babeceb11d57dd46ff4cdb4241b": {
+            "u1d5b7c732bb1a7d57bf5b72f4bf7868c": 3,
+            "u2265283c88a0de6e2135c723f37a3eae": 14,
+            "u2f823bab7eaf3880304366884f49eaad": 17,
+            "u612ae75d2a3beb603803ba15bf59b790": 1,
+            "u8569f47a4c99a37dbc39443449d3cf2d": 1,
+            "ub19b4b9f8091b5d622a34ace6fc1c5a5": 2
+        },
+        "cb2d4d5a23151b3d2b5a0d2393a59deb2": {
+            "u94d762cc91e4ffd0d613fe65e5855c1b": 6
+        },
+        "cc67278a51356b1b4fe65b288c728a111": {
+            "u44b2a7a8702752334f5a1aaf29dd87c9": 1,
+            "u94d762cc91e4ffd0d613fe65e5855c1b": 1,
+            "ua1e83cb31a92551011c871096802a6d0": 3,
+            "udf1cc52d2369364e4a32086c0976c9b4": 21,
+            "ue36af223b6f57da66585e5313c653dd1": 2
+        },
+        "ccaefd67d7850de63b908f62d62dbc78a": {
+            "u94d762cc91e4ffd0d613fe65e5855c1b": 1
+        },
+        "ccbdbcbb9715bc85a25c65e26fa8180e5": {
+            "u44b2a7a8702752334f5a1aaf29dd87c9": 2
+        },
+        "cce17a1dca61f02507ca41b9693386d0b": {
+            "u1f117aa506051fcd3de3217eac5bd860": 1,
+            "u6915988d5d25fbd3fc96d080b0e05c66": 2,
+            "u7ef097f12d81d8a42cabf99680226443": 2
+        },
+        "cdad886bb11ff6fe4ac87a470e4b8c98d": {
+            "u2469958d85f9d006e6ac3c724985c783": 1,
+            "u5f1f4211c79a1022165965be80246b02": 1
+        },
+        "cdd1a1d5560b744311b7b0e934dd304d3": {
+            "u45b61426ee554d64d41a6061a76081dd": 1
+        },
+        "cdf26523f77c64dd9e8737532294c8e28": {
+            "u009c3c44dc46c33cdc8dd56df896b59b": 1,
+            "u12fc4ec2247a90066739dc1cfeb99f03": 4,
+            "u16c75ad2813043af557ea85b504b0498": 5,
+            "u18e0ff25ea1dfeabcdb9c54c9eb7d399": 4,
+            "u238a6ceb292270743f223a902e911fba": 6,
+            "u241e386510507738b3b0dff12d691cce": 5,
+            "u2469958d85f9d006e6ac3c724985c783": 9,
+            "u2637c12260921b871fb89a33ecad08df": 3,
+            "u4f0d4f53e008c4b7a62924b93d70ef1a": 12,
+            "u5a0cea82b8d60a55b692865b8d41051c": 2,
+            "u5b67c6e4067d095e62c231ee114d8f29": 1,
+            "u5ba3e0ead70033f98182d0f7a815b90a": 1,
+            "u6915988d5d25fbd3fc96d080b0e05c66": 11,
+            "u7c11d80f712a9b7c782737194b07456f": 1,
+            "u94d762cc91e4ffd0d613fe65e5855c1b": 14,
+            "ua632278902552ef039f5c60a088b1281": 1,
+            "ub37bfd38a22f5f7612166ade5d7a986f": 1,
+            "ub621484bd88d2486744123db00551d5e": 2,
+            "ud88d149c411d8666a683174ce67cdf9e": 3,
+            "udb0fbae8003989aa5a1f4da2addd4514": 1,
+            "udf060a89ebb2af83af77edddb767c329": 9,
+            "udf1cc52d2369364e4a32086c0976c9b4": 5,
+            "ue3387d5ebe43c36ac3c1fb3f0549e479": 1,
+            "ue36af223b6f57da66585e5313c653dd1": 1
+        },
+        "cf81abca18ada622857b9a3608e622f6d": {
+            "u0c823722228f37be26942a53aaa77cc3": 1,
+            "u18e0ff25ea1dfeabcdb9c54c9eb7d399": 6,
+            "u2469958d85f9d006e6ac3c724985c783": 7,
+            "u2637c12260921b871fb89a33ecad08df": 2,
+            "u2f823bab7eaf3880304366884f49eaad": 1,
+            "u55e24ce9bd53fda291fd77da70505daa": 2,
+            "u8cae982abc647f463d9d1baae6138d57": 1,
+            "u94d762cc91e4ffd0d613fe65e5855c1b": 8,
+            "ua1e83cb31a92551011c871096802a6d0": 21,
+            "ub19b4b9f8091b5d622a34ace6fc1c5a5": 1,
+            "ub1d693e82fd0184b18056507f692bb46": 5,
+            "ue36af223b6f57da66585e5313c653dd1": 1
+        },
+        "cff2e5e65e0fceb19234f32a9abbe8d5b": {
+            "u150d8a7d96d4b893cfbb8193cab77a59": 1,
+            "udc8c86681f5660fb466f8851b09b31f0": 1
+        }
+    },
+    "welcomeMessage": false,
+    "welcomePesan": "Welcome to{gname} @! ",
+    "commentPost": "Awto Like by Ferianss Gans\n\nhttp://line.me/ti/p/~itsmeferianss"
+}
